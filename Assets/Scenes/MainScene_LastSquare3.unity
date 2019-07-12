@@ -833,12 +833,12 @@ PrefabInstance:
     - target: {fileID: 8132926838697449953, guid: a142173d019ac05498ba6974882d82e6,
         type: 3}
       propertyPath: minGridSize
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8132926838697449953, guid: a142173d019ac05498ba6974882d82e6,
         type: 3}
       propertyPath: minNumberOfUnits
-      value: 1
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a142173d019ac05498ba6974882d82e6, type: 3}
